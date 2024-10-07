@@ -1,4 +1,3 @@
-import axios from "axios";
 import GtfsRealtimeBindings from "gtfs-realtime-bindings";
 import parseCsv from "csv-simple-parser";
 
